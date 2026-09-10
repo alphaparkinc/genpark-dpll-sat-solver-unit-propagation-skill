@@ -1,0 +1,15 @@
+{
+  "name": "genpark-dpll-sat-solver-unit-propagation-skill",
+  "version": "1.0.0",
+  "description": "Davis-Putnam-Logemann-Loveland (DPLL) Boolean SAT solver engine implementing unit propagation, pure literal elimination, and backtracking search.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "sat-solver",
+    "dpll",
+    "boolean-satisfiability",
+    "automated-reasoning"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
